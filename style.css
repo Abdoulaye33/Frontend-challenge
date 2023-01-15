@@ -1,0 +1,27 @@
+body {
+    background-color: aliceblue;
+}
+.petit-commentaires-en-bas {
+    font-size: 15px;
+}
+.container {
+    float: center;
+    font-size: 15px;
+}
+.container {
+        border-width:3px 2px 3px 2px;
+        border-style:solid ;
+        border-color:black black;
+        margin-inline: 630px;
+        margin-top: 150px;
+        border-radius: 12px;
+        padding: 20px;
+        padding-right: 20px;
+        box-shadow: 1px 1px 12px 
+#555;   
+        
+}
+.image {
+    border-radius: 8px;
+    
+}
